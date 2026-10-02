@@ -1,0 +1,8 @@
+{
+  "name": "Purple Rooms",
+  "description": "Find, book, and move into verified rooms, PGs, hostels, apartments, and villas with zero brokerage and direct owner connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
